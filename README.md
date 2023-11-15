@@ -1,18 +1,16 @@
-# High-Level-Language-Projects
+# High Level Programming Language Projects
 
 ## HLL Path 
 
-In this path we will learn about a high-level language which is any programming language that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
+In this path you will cover the fundamentals of programming using High Level Languges and the concepts of Object Orienred Programming that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
 
 ## The goal of this path
 
 By the end of this path you will be able to:
 
-* Ability to learn write a simple program  from any language.
-* What is classes and object.
-* Understand Classes and objects.
-* Understand Inheritance and abstraction.
-* understand of variables and data types.
+* Understand the fundamentals of High-Level Programming Languages.
+* Understand Object Oriented Programming concepts.
+* Build softwares using HLL and OOP concepts.
 
 
 
