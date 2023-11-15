@@ -1,6 +1,6 @@
 # High-Level-Language-Projects
 
-## High Level Language Path 
+## HLL Path 
 
 In this path we will learn about a high-level language which is any programming language that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
 
