@@ -6,7 +6,16 @@
 In this path we will learn about a high-level language which is any programming language that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
 
 ## The goal of this path
+
 By the end of this path you will be able to:
+
+* Ability to learn write a simple program  from any language.
+* What is classes and object.
+* Understand Classes and objects.
+* Understand Inheritance and abstraction.
+* understand of variables and data types.
+
+
 
 
 
