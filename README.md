@@ -12,7 +12,7 @@ By the end of this path you will be able to:
 
 * Understand the fundamentals of High-Level Programming Languages.
 * Understand Object Oriented Programming concepts.
-* Build softwares using HLL and OOP concepts.
+* Build softwares using HLPL and OOP concepts.
   
 ## Project Stack
 
