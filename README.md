@@ -4,7 +4,9 @@
 
 In this path you will cover the **fundamentals of programming** using `High Level Programming Languges` and the **concepts of Object Orienred Programming** that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
 
-## The goal of this path
+> This path is divided into resource stack that will cover the mian concepts related to the path itself, and project stack which helps validate your understanding of these concepts.
+
+## Objectives
 
 By the end of this path you will be able to:
 
