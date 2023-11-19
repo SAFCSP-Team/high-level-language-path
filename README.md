@@ -2,7 +2,7 @@
 
 ## HLL Path Introduction
 
-In this path you will cover the **fundamentals of programming** using HLL and the **concepts of Object Oriented Programming** that enables development of a program in a much more user-friendly programming context.
+In this path we will cover the **fundamentals of programming** using HLL and the **concepts of Object Oriented Programming** that enables development of a program in a much more user-friendly programming context.
 
 > This path is divided into resource stack that will cover the mian concepts related to the path itself, and project stack which helps validate your understanding of these concepts.
 
