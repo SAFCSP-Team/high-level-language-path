@@ -21,7 +21,7 @@ By the end of this path you will be able to:
 
 | Project ID  | Project Title                                                                         | Deadline |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |
-| HLLProject01 | [Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |21 Nov
+| HLLProject01 | [Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |23 Nov
 | HLLProject02 | [Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |23 Nov
 
 ### Submitting Process
