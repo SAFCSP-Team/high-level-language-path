@@ -1,8 +1,8 @@
 # High Level Programming Language Path
 
-## HLPL Path Introduction
+## HLL Path Introduction
 
-In this path you will cover the **fundamentals of programming** using HLPL and the **concepts of Object Oriented Programming** that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
+In this path you will cover the **fundamentals of programming** using HLL and the **concepts of Object Oriented Programming** that enables development of a program in a much more user-friendly programming context.
 
 > This path is divided into resource stack that will cover the mian concepts related to the path itself, and project stack which helps validate your understanding of these concepts.
 
@@ -12,7 +12,7 @@ By the end of this path you will be able to:
 
 * Understand the fundamentals of High-Level Programming Languages.
 * Understand Object Oriented Programming concepts.
-* Build softwares using HLPL and OOP concepts.
+* Build softwares using High level programming language and OOP paradigm.
   
 ## Project Stack
 
@@ -21,8 +21,8 @@ By the end of this path you will be able to:
 
 | Project ID  | Project Title                                                                         | Deadline |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |
-| HLProject01 | [Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |21 Nov
-| HLProject02 | [Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |23 Nov
+| HLLProject01 | [Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |21 Nov
+| HLLProject02 | [Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |23 Nov
 
 ### Submitting Process
 
@@ -39,7 +39,7 @@ By the end of this path you will be able to:
 
 | Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| HLResource01 |  | |  |  |
+| HLLResource01 |  | |  |  |
 |              |                                                                                                                                                                                                                                                                                                                                    |        |                                                                |           |
 
 ### Submitting Process
