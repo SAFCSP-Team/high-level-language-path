@@ -1,6 +1,6 @@
 # High Level Programming Language Path
 
-## HLL Introduction
+## Introduction
 
 In this path we will cover the **fundamentals of programming** using HLL and the concepts of **Object Oriented Programming** that enables the development of a program in a much more efficient programming context.
 
