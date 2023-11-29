@@ -23,9 +23,6 @@ By the end of this path you will be able to:
 | ----------- | ------------------------------------------------------------------------------------- | -------- |
 | HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec
 | HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec
-|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|
-|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|
-|HLLProject05|[Throwing Exceptions](https://github.com/SAFCSP-Team/throwing-exceptions)||
 ### Submitting Process
 
 * Fork the project repository.
