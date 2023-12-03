@@ -30,8 +30,8 @@ By the end of this path you will be able to:
 |HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|
 |HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)|
 |HLLProject09|[Abstraction](https://github.com/SAFCSP-Team/abstraction)|
-|HLLProject010|[Interface](https://github.com/SAFCSP-Team/interface)|
-|HLLProject11|[Polymorphism]()|
+|HLLProject10|[Interface](https://github.com/SAFCSP-Team/interface)|
+|HLLProject11|[Polymorphism](https://github.com/SAFCSP-Team/polymorphism)|
 ### Submitting Process
 
 * Fork the project repository.
