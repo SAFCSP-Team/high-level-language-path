@@ -26,6 +26,12 @@ By the end of this path you will be able to:
 |HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|
 |HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|
 |HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)|
+|HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)|
+|HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|
+|HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)|
+|HLLProject09|[Abstraction](https://github.com/SAFCSP-Team/abstraction)|
+|HLLProject010|[Interface](https://github.com/SAFCSP-Team/interface)|
+|HLLProject11|[Polymorphism]()|
 ### Submitting Process
 
 * Fork the project repository.
