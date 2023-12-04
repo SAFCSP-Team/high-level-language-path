@@ -23,9 +23,9 @@ By the end of this path you will be able to:
 | ----------- | ------------------------------------------------------------------------------------- | -------- |
 | HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec
 | HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec
-|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|
-|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|
-|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)|
+|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|6 Dec
+|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|9 Dec
+|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)|10 Dec
 |HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)|
 |HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|
 |HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)|
